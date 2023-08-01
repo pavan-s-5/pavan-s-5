@@ -10,4 +10,4 @@ Any Job references for #frontend developement #web developement role will be hig
 
 **Email : pavansgowda6@gmail.com**
 
-**Portfolio : ** https://personal-portfolio-three-sable.vercel.app/
+**Portfolio :** https://personal-portfolio-three-sable.vercel.app/
